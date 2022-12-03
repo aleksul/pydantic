@@ -6,7 +6,7 @@
 #
 ansi2html==1.8.0
     # via -r requirements/docs.in
-autoflake==1.7.7
+autoflake==1.7.8
     # via -r requirements/docs.in
 certifi==2022.9.24
     # via requests
@@ -76,8 +76,6 @@ six==1.16.0
     # via python-dateutil
 sqlalchemy==1.4.43
     # via -r requirements/docs.in
-tomli==2.0.1
-    # via autoflake
 ujson==5.5.0
     # via -r requirements/docs.in
 urllib3==1.26.12
